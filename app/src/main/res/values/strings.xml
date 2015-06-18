@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HomeWork2_1</string>
+<string name="change_wallpaper">Change Wallpaper</string>
+    <string name="change_background_color">Change Background Color</string>
+    <string name="wallpaper_A">Wallpaper A</string>
+    <string name="wallpaper_B">Wallpaper B</string>
+    <string name="wallpaper_C">Wallpaper C</string>
+<string name="exit">Exit</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

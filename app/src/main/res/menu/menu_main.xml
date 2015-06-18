@@ -1,0 +1,48 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/change_wallpaper"
+        android:title="@string/change_wallpaper">
+    <menu>
+
+    <item
+        android:id="@+id/a"
+        android:title="@string/wallpaper_A"
+        android:icon="@drawable/a"/>
+
+    <item
+        android:id="@+id/b"
+        android:title="@string/wallpaper_B"
+        android:icon="@drawable/b"/>
+
+    <item
+        android:id="@+id/c"
+        android:title="@string/wallpaper_C"
+        android:icon="@drawable/c"/>
+       </menu>
+
+
+        </item>
+    <item
+        android:id="@+id/change_background_color"
+    android:title="@string/change_background_color">
+    <menu>
+        <item
+            android:id="@+id/red"
+            android:title="@string/red"/>
+        <item
+            android:id="@+id/green"
+            android:title="@string/green"/>
+        <item
+            android:id="@+id/blue"
+            android:title="@string/blue"/>
+
+    </menu>
+    </item>
+    <item
+
+        android:id="@+id/exit"
+        android:title="@string/exit"/>
+
+</menu>
